@@ -20,5 +20,8 @@
     "related": [
         "exercise-numpy-array-selection-and-assignment",
         "numpy-assigning-multiple-items-with-array-values"
+    ],
+    "python_packages": [
+        "numpy"
     ]
 }
