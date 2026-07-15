@@ -19,7 +19,7 @@
     ],
     "related": [
         "exercise-numpy-array-selection-and-assignment",
-        "numpy-assigning-multiple-items-with-array-values"
+        "numpy-assigning-multiple-items-with-array"
     ],
     "python_packages": [
         "numpy"
