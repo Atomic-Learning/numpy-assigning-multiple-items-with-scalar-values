@@ -10,7 +10,7 @@
         "python",
         "numpy"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
         "numpy-item-assignment",
         "numpy-indexing",
