@@ -1,22 +1,24 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "NumPy: Assigning to Multiple Items in an Array with a Scalar Value",
+    "slug": "numpy-assigning-multiple-items-with-scalar-values",
+    "description": "How to assign the same scalar value to multiple locations in a NumPy array.",
     "authors": [
-        "",
-        ""
+        "chris-cooling",
+        "giorgia-del-missier"
     ],
     "tags": [
-        "",
-        ""
+        "python",
+        "numpy"
     ],
     "duration": 0,
     "prerequisites": [
-        "",
-        ""
+        "numpy-item-assignment",
+        "numpy-indexing",
+        "numpy-slicing",
+        "numpy-selecting-every-item-from-dimension"
     ],
     "related": [
-        "",
-        ""
+        "exercise-numpy-array-selection-and-assignment",
+        "numpy-assigning-multiple-items-with-array-values"
     ]
 }
